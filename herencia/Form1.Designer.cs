@@ -162,7 +162,7 @@ namespace herencia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(812, 405);
+            this.ClientSize = new System.Drawing.Size(812, 344);
             this.Controls.Add(this.limpiar);
             this.Controls.Add(this.salir);
             this.Controls.Add(this.dividir);
